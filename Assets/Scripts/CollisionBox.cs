@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class b : MonoBehaviour
+public class CollisionBox : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -13,4 +13,5 @@ public class b : MonoBehaviour
     {
         
     }
+    
 }
